@@ -1,0 +1,60 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Título do Curso 1",
+      "description": "Descrição do Curso 1",
+      "image": null,
+      "teacher": "Professor 1",
+      "created_at": 1638068400000,
+      "updated_at": 1638068400000,
+      "classes": [
+        "link aula 1",
+        "link aula 2",
+        "link aula 3"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Título do Curso 2",
+      "description": "Descrição do Curso 2",
+      "image": null,
+      "teacher": "Professor 2",
+      "created_at": 1637982000000,
+      "updated_at": 1637982000000,
+      "classes": [
+        "link aula 1",
+        "link aula 2",
+        "link aula 3"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Título do Curso 3",
+      "description": "Descrição do Curso 3",
+      "image": null,
+      "teacher": "Professor 1",
+      "created_at": 1637809200000,
+      "updated_at": 1637809200000,
+      "classes": [
+        "link aula 1",
+        "link aula 2",
+        "link aula 3"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Título do Curso 4",
+      "description": "Descrição do Curso 4",
+      "image": null,
+      "teacher": "Professor 3",
+      "created_at": 1637031600000,
+      "updated_at": 1637031600000,
+      "classes": [
+        "link aula 1",
+        "link aula 2",
+        "link aula 3"
+      ]
+    }
+  ]
+}
